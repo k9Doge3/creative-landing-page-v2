@@ -1,0 +1,31 @@
+{
+  "name": "creative-landing-page-v2",
+  "version": "2.0.0",
+  "description": "Creative landing page for Karim Youssef featuring KY logo, dark theme with animated background, and Wildrose Painters business integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "landing-page",
+    "creative",
+    "dark-theme",
+    "animated",
+    "portfolio",
+    "karim-youssef",
+    "wildrose-painters"
+  ],
+  "author": "Karim Youssef",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k9Doge3/creative-landing-page-v2.git"
+  }
+}
